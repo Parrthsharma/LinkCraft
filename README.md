@@ -101,7 +101,7 @@ git checkout -b bugfix/your-bug-fix
 4. Write your code and ensure it follows standard TypeScript conventions.
 5. Commit your changes:
 ```bash
-git commit -m "feat: add Google dork generator utility"
+git commit -m "feat: add Google dork generator utility".
 
 ```
 
